@@ -13,7 +13,7 @@ The whole of webvirt depends on three seperate projects:
     - PAM authentication
     - JSON web token leasing
     - Proxies authenticated requests to [webvirtd](https://github.com/kevr/webvirtd)
-- Front-end (React) -- [webvirt_react](https://github.com/kevr/webvirt_react?target=_blank)
+- Front-end (React) -- [webvirt_react](https://github.com/kevr/webvirt_react)
     - ![lint](https://github.com/kevr/webvirt_react/actions/workflows/lint.yaml/badge.svg?branch=master) ![tests](https://github.com/kevr/webvirt_react/actions/workflows/react.yaml/badge.svg?branch=master) [![license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     - Utilizes [webvirt_api](https://github.com/kevr/webvirt_api) as a back-end
 
